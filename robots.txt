@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://getinternetservice.site/sitemap.xml
+Sitemap: https://horizonnetworkplans.com /sitemap.xml
