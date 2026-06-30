@@ -1,0 +1,13 @@
+{
+  "name": "Horizon Network LLC",
+  "short_name": "Horizon",
+  "description": "Independent internet & cable plan advisory service.",
+  "icons": [
+    { "src": "/icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ],
+  "theme_color": "#0e2a47",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/"
+}
